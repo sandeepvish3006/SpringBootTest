@@ -23,10 +23,10 @@ public class Employee {
 	@Column(name = "password")
 	private String password;
 
-	/*public Integer geteId() {
+	public Long geteId() {
 		return eId;
 	}
-
+/*
 	public void seteId(Integer eId) {
 		this.eId = eId;
 	}*/
